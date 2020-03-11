@@ -9,6 +9,7 @@ Abrir [http://localhost:3000](http://localhost:3000)
 ### Módulos usados
 - Bootstrap
 - Axios
+- Servidor : https://github.com/bmviniciuss/sisenex-desafio-web
 
 ### Tela inicial do app
 
